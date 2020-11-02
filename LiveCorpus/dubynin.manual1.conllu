@@ -7,7 +7,7 @@
 4	в	в	ADP	_	_	5	case	_	words@mvs1985m#@mvs1985m#0.853#1.076
 5	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	parataxis	_	words@mvs1985m#@mvs1985m#1.076#1.299
 6	когда	когда	SCONJ	_	_	12	mark	_	words@mvs1985m#@mvs1985m#1.299#1.522
-7	во	в	ADP	_	_	8	case	_	words@mvs1985m#@mvs1985m#1.522#1.745
+7	во	во	ADP	_	_	8	case	_	words@mvs1985m#@mvs1985m#1.522#1.745
 8	сне	сон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	words@mvs1985m#@mvs1985m#1.745#1.968
 9	ааа	ааа	NOUN	_	_	8	appos	_	words@mvs1985m#@mvs1985m#1.968#2.191
 10	/	/	PUNCT	_	_	12	punct	_	words@mvs1985m#@mvs1985m#2.191#2.414
@@ -343,7 +343,7 @@
 340	/	/	PUNCT	_	_	1531	punct	_	words@vad1961m#@vad1961m#57.304#57.623
 341	/	/	PUNCT	_	_	340	punct	_	words@vad1961m#@vad1961m#57.623#57.942
 342	проявляется	проявляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1547	conj	_	words@vad1961m#@vad1961m#57.942#58.261
-343	во	в	ADP	_	_	1428	case	_	words@vad1961m#@vad1961m#58.261#58.58
+343	во	во	ADP	_	_	1428	case	_	words@vad1961m#@vad1961m#58.261#58.58
 344	многом	многое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	340	obl	_	words@vad1961m#@vad1961m#58.58#58.899
 345	на	на	ADP	_	_	345	case	_	words@vad1961m#@vad1961m#58.899#59.218
 346	речевом	речевой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	345	amod	_	words@vad1961m#@vad1961m#59.218#59.537
