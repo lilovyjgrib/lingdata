@@ -3,7 +3,7 @@
 # udpipe_model_licence = CC BY-NC-SA									
 1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ayk1984m#@ayk1984m#0.29#0.472
 2	на	на	ADP	_	_	_	_	_	words@ayk1984m#@ayk1984m#0.472#0.654
-3	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#0.654#0.836
+3	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#0.654#0.836
 4	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#0.836#1.018
 5	в	в	ADP	_	_	_	_	_	words@ayk1984m#@ayk1984m#1.018#1.2
 6	/	/	PUNCT	_	_	_	_	_	words@ayk1984m#@ayk1984m#1.2#1.382
@@ -185,8 +185,8 @@
 182	правиль...	правильный	ADJ	_	_	_	_	_	words@ayk1984m#@ayk1984m#94.472#94.83
 183	/	/	PUNCT	_	_	_	_	_	words@ayk1984m#@ayk1984m#94.83#95.188
 184	нет	нет	PART	_	_	_	_	_	words@ayk1984m#@ayk1984m#95.188#95.546
-185	это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#95.546#95.904
-186	все	весь	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#95.904#96.262
+185	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#95.546#95.904
+186	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#95.904#96.262
 187	абсолютно	абсолютно	ADV	_	Degree=Pos	_	_	_	words@ayk1984m#@ayk1984m#96.262#96.62
 188	правильно	правильный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ayk1984m#@ayk1984m#96.62#96.978
 189	/	/	PUNCT	_	_	_	_	_	words@ayk1984m#@ayk1984m#96.978#97.336
@@ -239,7 +239,7 @@
 236	ааа	ааа	INTJ	_	_	_	_	_	words@ayk1984m#@ayk1984m#115.87#116.128
 237	/	/	PUNCT	_	_	_	_	_	words@ayk1984m#@ayk1984m#116.128#116.386
 238	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ayk1984m#@ayk1984m#116.386#116.644
-239	самые	самый	DET	_	Case=Nom|Number=Plur	_	_	_	words@ayk1984m#@ayk1984m#116.644#116.902
+239	самые	самый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@ayk1984m#@ayk1984m#116.644#116.902
 240	большие	большой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@ayk1984m#@ayk1984m#116.902#117.16
 241	комки	комок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@ayk1984m#@ayk1984m#117.16#117.418
 242	/	/	PUNCT	_	_	_	_	_	words@ayk1984m#@ayk1984m#117.418#117.676
@@ -1210,7 +1210,7 @@
 1207	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@tk1984m#@tk1984m#313.888#314.145
 1208	вот	вот	PART	_	_	_	_	_	words@tk1984m#@tk1984m#314.145#314.402
 1209	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@tk1984m#@tk1984m#314.402#314.659
-1210	самая	самый	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@tk1984m#@tk1984m#314.659#314.916
+1210	самая	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@tk1984m#@tk1984m#314.659#314.916
 1211	основная	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@tk1984m#@tk1984m#314.916#315.173
 1212	тема	тема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@tk1984m#@tk1984m#315.173#315.43
 1213	/	/	PUNCT	_	_	_	_	_	words@tk1984m#@tk1984m#315.43#315.687
