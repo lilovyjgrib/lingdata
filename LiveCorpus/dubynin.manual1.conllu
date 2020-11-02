@@ -534,7 +534,7 @@
 531	это	это	PART	_	_	870	fixed	_	words@vad1961m#@vad1961m#114.744#115.015
 532	без	без	ADP	_	_	530	case	_	words@vad1961m#@vad1961m#115.015#115.286
 533	моего	мой	DET	_	Case=Gen|Gender=Neut|Number=Sing	530	det	_	words@vad1961m#@vad1961m#115.286#115.557
-534	ведома	ведома	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	533	obl	_	words@vad1961m#@vad1961m#115.557#115.828
+534	ведома	ведом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	533	obl	_	words@vad1961m#@vad1961m#115.557#115.828
 535	тут	тут	ADV	_	Degree=Pos	533	advmod	_	words@vad1961m#@vad1961m#115.828#116.099
 536	кого-то	кто-то	PRON	_	Case=Acc	1527	obj	_	words@vad1961m#@vad1961m#116.099#116.37
 537	мутузит	мутузить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	56	parataxis	_	words@vad1961m#@vad1961m#116.37#116.641
