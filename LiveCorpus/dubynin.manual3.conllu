@@ -70,7 +70,7 @@
 67	чем	что	PRON	_	Case=Ins	1201	obl	_	words@mvs1985m#@mvs1985m#14.902#15.125
 68	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	56	parataxis	_	words@mvs1985m#@mvs1985m#15.125#15.348
 69	там	там	PART	_	Degree=Pos	68	advmod	_	words@mvs1985m#@mvs1985m#15.348#15.571
-70	ч...	ч	X	_	Foreign=Yes	68	nsubj	_	words@mvs1985m#@mvs1985m#15.571#15.794
+70	ч...	ч	X	_	_	68	nsubj	_	words@mvs1985m#@mvs1985m#15.571#15.794
 71	моё	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing	1410	det	_	words@mvs1985m#@mvs1985m#15.794#16.017
 72	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	1206	nsubj	_	words@mvs1985m#@mvs1985m#16.017#16.24
 73	да	да	PART	_	_	1205	appos	_	words@mvs1985m#@mvs1985m#16.24#16.463
