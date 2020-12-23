@@ -1414,7 +1414,7 @@
 1411	/	/	PUNCT	_	_	758	punct	_	words@vad1961m#@vad1961m#394.503#394.803
 1412	/	/	PUNCT	_	_	758	punct	_	words@vad1961m#@vad1961m#394.803#395.103
 1413	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	1417	nsubj	_	words@vad1961m#@vad1961m#395.103#395.403
-1414  ы ы X _ _ 758 conj  _ words@vad1961m#@vad1961m#395.403#395.703
+1414	ы	ы	X	_	_	758	conj	_	words@vad1961m#@vad1961m#395.403#395.703
 1415	действительно	действительно	ADV	_	Degree=Pos	758	parataxis	_	words@vad1961m#@vad1961m#395.703#396.003
 1416	/	/	PUNCT	_	_	758	punct	_	words@vad1961m#@vad1961m#396.003#396.303
 1417	начинаете	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	758	conj	_	words@vad1961m#@vad1961m#396.303#396.603
