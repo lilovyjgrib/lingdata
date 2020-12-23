@@ -856,7 +856,7 @@
 853	-	-	PUNCT	_	_	854	punct	_	words@vad1961m#@vad1961m#212.244#212.463
 854	то	то	PART	_	_	848	discourse	_	words@vad1961m#@vad1961m#212.463#212.682
 855	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	856	nsubj	_	words@vad1961m#@vad1961m#212.682#212.901
-856	сделаю	делать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	438	conj	_	words@vad1961m#@vad1961m#212.901#213.12
+856	сделаю	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	438	conj	_	words@vad1961m#@vad1961m#212.901#213.12
 857	в	в	ADP	_	_	864	case	_	words@vad1961m#@vad1961m#213.12#213.339
 858	такую	такой	DET	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	864	det	_	words@vad1961m#@vad1961m#213.339#213.558
 859	-	-	PUNCT	_	_	860	punct	_	words@vad1961m#@vad1961m#213.558#213.777
@@ -1444,7 +1444,7 @@
 1441	/	/	PUNCT	_	_	1444	punct	_	words@vad1961m#@vad1961m#403.578#403.859
 1442	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing	1443	det	_	words@vad1961m#@vad1961m#403.859#404.14
 1443	дыра	дыра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1444	nsubj	_	words@vad1961m#@vad1961m#404.14#404.421
-1444	образовалась	образовываться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	758	conj	_	words@vad1961m#@vad1961m#404.421#404.702
+1444	образовалась	образоваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	758	conj	_	words@vad1961m#@vad1961m#404.421#404.702
 1445	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	1444	nsubj	_	words@vad1961m#@vad1961m#404.702#404.983
 1446	ни...	ни	PART	_	_	1595	obl	_	words@vad1961m#@vad1961m#404.983#405.264
 1447	ничего	ничто	PRON	_	Case=Acc	1613	obl	_	words@vad1961m#@vad1961m#405.264#405.545
