@@ -170,7 +170,7 @@
 167	но	но	CCONJ	_	_	168	cc	_	words@mvs1985m#@mvs1985m#253.609#253.854
 168	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	166	conj	_	words@mvs1985m#@mvs1985m#253.854#254.099
 169	/	/	PUNCT	_	_	163	punct	_	words@mvs1985m#@mvs1985m#254.099#254.344
-170	отдхает	отдхать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	166	conj	_	words@mvs1985m#@mvs1985m#254.344#254.593
+170	отдыхает	отдыхать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	166	conj	_	words@mvs1985m#@mvs1985m#254.344#254.593
 171	#смеётся#	#смеётся#	X	_	_	170	advmod	_	words@mvs1985m#@mvs1985m#264.631#265.725
 172	угу	угу	INTJ	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	183	iobj	_	words@mvs1985m#@mvs1985m#310.604#311.053
 173	угу	угу	INTJ	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	183	iobj	_	words@mvs1985m#@mvs1985m#315.039#315.395
@@ -558,7 +558,7 @@
 555	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	979	obl	_	words@vad1961m#@vad1961m#122.437#122.74
 556	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1205	nmod	_	words@vad1961m#@vad1961m#122.74#123.043
 557	такое	такой	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1258	det	_	words@vad1961m#@vad1961m#123.043#123.346
-558	сделаешь	cделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	758	conj	_	words@vad1961m#@vad1961m#123.346#123.649
+558	сделаешь	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	758	conj	_	words@vad1961m#@vad1961m#123.346#123.649
 559	и	и	CCONJ	_	_	1225	cc	_	words@vad1961m#@vad1961m#123.649#123.952
 560	как	как	ADV	_	Degree=Pos	563	advmod	_	words@vad1961m#@vad1961m#123.952#124.255
 561	бы	бы	PART	_	_	889	fixed	_	words@vad1961m#@vad1961m#124.255#124.558
@@ -947,7 +947,7 @@
 944	вот	вот	PART	_	_	530	advmod	_	words@vad1961m#@vad1961m#238.048#238.316
 945	с	с	ADP	_	_	946	case	_	words@vad1961m#@vad1961m#238.316#238.584
 946	бухты-барахты	бухты-барахты	INTJ	_	_	56	obl	_	words@vad1961m#@vad1961m#238.584#238.852
-947	нельзя  нельзя	ADV	_	Degree=Pos	56	parataxis	_	words@vad1961m#@vad1961m#238.852#239.159
+947	нельзя	нельзя	ADV	_	Degree=Pos	56	parataxis	_	words@vad1961m#@vad1961m#238.852#239.159
 948	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	56	obj	_	words@vad1961m#@vad1961m#239.589#239.922
 949	надо	надо	VERB	_	Degree=Pos	56	conj	_	words@vad1961m#@vad1961m#239.922#240.255
 950	/	/	PUNCT	_	_	951	punct	_	words@vad1961m#@vad1961m#240.255#240.588
@@ -1280,7 +1280,7 @@
 1277	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	504	nsubj	_	words@vad1961m#@vad1961m#354.158#354.422
 1278	/	/	PUNCT	_	_	758	punct	_	words@vad1961m#@vad1961m#354.422#354.686
 1279	сжимаете	сжимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	758	conj	_	words@vad1961m#@vad1961m#354.686#354.95
-1280	прокрастинируете	прокрастинируть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	758	conj	_	words@vad1961m#@vad1961m#354.95#355.214
+1280	прокрастинируете	прокрастинировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	758	conj	_	words@vad1961m#@vad1961m#354.95#355.214
 1281	сжимаете	сжимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	979	conj	_	words@vad1961m#@vad1961m#355.214#355.478
 1282	себя	себя	PRON	_	Case=Acc	1281	obj	_	words@vad1961m#@vad1961m#355.478#355.742
 1283	как	как	SCONJ	_	_	1284	mark	_	words@vad1961m#@vad1961m#355.742#356.006
