@@ -414,7 +414,7 @@
 411	/	/	PUNCT	_	_	414	punct	_	words@vad1961m#@vad1961m#78.121#78.342
 412	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	414	discourse	_	words@vad1961m#@vad1961m#78.342#78.563
 413	типа	типа	PART	_	_	414	obl	_	words@vad1961m#@vad1961m#78.563#78.784
-414	нельзя	нельзя	VERB	_	Degree=Pos	56	conj	_	words@vad1961m#@vad1961m#78.784#79.005
+414	нельзя	нельзя	VERB	_	_	56	conj	_	words@vad1961m#@vad1961m#78.784#79.005
 415	там	там	ADV	_	Degree=Pos	416	advmod	_	words@vad1961m#@vad1961m#79.005#79.226
 416	ходить	ходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	414	csubj	_	words@vad1961m#@vad1961m#79.226#79.447
 417	и	и	CCONJ	_	_	416	cc	_	words@vad1961m#@vad1961m#79.447#79.668
@@ -894,7 +894,7 @@
 891	коем	кой	DET	_	Case=Loc|Gender=Masc|Number=Sing	889	fixed	_	words@vad1961m#@vad1961m#222.154#222.434
 892	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	889	fixed	_	words@vad1961m#@vad1961m#222.434#222.714
 893	не	не	PART	_	_	894	advmod	_	words@vad1961m#@vad1961m#222.714#222.994
-894	надо	надо	VERB	_	Degree=Pos	758	advcl	_	words@vad1961m#@vad1961m#222.994#223.274
+894	надо	надо	VERB	_	_	758	advcl	_	words@vad1961m#@vad1961m#222.994#223.274
 895	принимать	принимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	894	csubj	_	words@vad1961m#@vad1961m#223.274#223.554
 896	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	1545	obj	_	words@vad1961m#@vad1961m#223.554#223.834
 897	сегодня	сегодня	ADV	_	Degree=Pos	898	advmod	_	words@vad1961m#@vad1961m#223.834#224.116
@@ -912,7 +912,7 @@
 909	понятно	понятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1601	conj	_	words@vad1961m#@vad1961m#228.668#228.936
 910	что	что	SCONJ	_	_	894	mark	_	words@vad1961m#@vad1961m#228.936#229.204
 911	если	если	SCONJ	_	_	1061	mark	_	words@vad1961m#@vad1961m#229.204#229.472
-912	надо	надо	VERB	_	Degree=Pos	894	advcl	_	words@vad1961m#@vad1961m#229.472#229.74
+912	надо	надо	VERB	_	_	894	advcl	_	words@vad1961m#@vad1961m#229.472#229.74
 913	там	там	PART	_	Degree=Pos	915	advmod	_	words@vad1961m#@vad1961m#229.74#230.008
 914	не	не	PART	_	_	915	advmod	_	words@vad1961m#@vad1961m#230.008#230.276
 915	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	894	conj	_	words@vad1961m#@vad1961m#230.276#230.544
@@ -947,9 +947,9 @@
 944	вот	вот	PART	_	_	530	advmod	_	words@vad1961m#@vad1961m#238.048#238.316
 945	с	с	ADP	_	_	946	case	_	words@vad1961m#@vad1961m#238.316#238.584
 946	бухты-барахты	бухты-барахты	INTJ	_	_	56	obl	_	words@vad1961m#@vad1961m#238.584#238.852
-947	нельзя	нельзя	ADV	_	Degree=Pos	56	parataxis	_	words@vad1961m#@vad1961m#238.852#239.159
+947	нельзя	нельзя	VERB	_	_	56	parataxis	_	words@vad1961m#@vad1961m#238.852#239.159
 948	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	56	obj	_	words@vad1961m#@vad1961m#239.589#239.922
-949	надо	надо	VERB	_	Degree=Pos	56	conj	_	words@vad1961m#@vad1961m#239.922#240.255
+949	надо	надо	VERB	_	_	56	conj	_	words@vad1961m#@vad1961m#239.922#240.255
 950	/	/	PUNCT	_	_	951	punct	_	words@vad1961m#@vad1961m#240.255#240.588
 951	поспать	поспать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	414	csubj	_	words@vad1961m#@vad1961m#240.588#240.921
 952	с	с	ADP	_	_	953	case	_	words@vad1961m#@vad1961m#240.921#241.254
