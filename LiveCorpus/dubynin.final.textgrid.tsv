@@ -2449,7 +2449,7 @@ pos@vad1961m	@vad1961m	77.9	78.121	PUNCT
 pos@vad1961m	@vad1961m	78.121	78.342	PUNCT
 pos@vad1961m	@vad1961m	78.342	78.563	PRON
 pos@vad1961m	@vad1961m	78.563	78.784	PART
-pos@vad1961m	@vad1961m	78.784	79.005	ADV
+pos@vad1961m	@vad1961m	78.784	79.005	VERB
 pos@vad1961m	@vad1961m	79.005	79.226	ADV
 pos@vad1961m	@vad1961m	79.226	79.447	VERB
 pos@vad1961m	@vad1961m	79.447	79.668	CCONJ
@@ -2929,7 +2929,7 @@ pos@vad1961m	@vad1961m	221.874	222.154	ADP
 pos@vad1961m	@vad1961m	222.154	222.434	DET
 pos@vad1961m	@vad1961m	222.434	222.714	NOUN
 pos@vad1961m	@vad1961m	222.714	222.994	PART
-pos@vad1961m	@vad1961m	222.994	223.274	ADV
+pos@vad1961m	@vad1961m	222.994	223.274	VERB
 pos@vad1961m	@vad1961m	223.274	223.554	VERB
 pos@vad1961m	@vad1961m	223.554	223.834	PRON
 pos@vad1961m	@vad1961m	223.834	224.116	ADV
@@ -2947,7 +2947,7 @@ pos@vad1961m	@vad1961m	228.4	228.668	PART
 pos@vad1961m	@vad1961m	228.668	228.936	ADJ
 pos@vad1961m	@vad1961m	228.936	229.204	SCONJ
 pos@vad1961m	@vad1961m	229.204	229.472	SCONJ
-pos@vad1961m	@vad1961m	229.472	229.74	ADV
+pos@vad1961m	@vad1961m	229.472	229.74	VERB
 pos@vad1961m	@vad1961m	229.74	230.008	PART
 pos@vad1961m	@vad1961m	230.008	230.276	PART
 pos@vad1961m	@vad1961m	230.276	230.544	VERB
@@ -2982,9 +2982,9 @@ pos@vad1961m	@vad1961m	237.78	238.048	ADV
 pos@vad1961m	@vad1961m	238.048	238.316	PART
 pos@vad1961m	@vad1961m	238.316	238.584	ADP
 pos@vad1961m	@vad1961m	238.584	238.852	INTJ
-pos@vad1961m	@vad1961m	238.852	239.159	ADV
+pos@vad1961m	@vad1961m	238.852	239.159	VERB
 pos@vad1961m	@vad1961m	239.589	239.922	PRON
-pos@vad1961m	@vad1961m	239.922	240.255	ADV
+pos@vad1961m	@vad1961m	239.922	240.255	VERB
 pos@vad1961m	@vad1961m	240.255	240.588	PUNCT
 pos@vad1961m	@vad1961m	240.588	240.921	VERB
 pos@vad1961m	@vad1961m	240.921	241.254	ADP
@@ -4001,7 +4001,7 @@ gram@mvs1985m	@mvs1985m	14.679	14.902	_
 gram@mvs1985m	@mvs1985m	14.902	15.125	Case=Ins
 gram@mvs1985m	@mvs1985m	15.125	15.348	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@mvs1985m	@mvs1985m	15.348	15.571	Degree=Pos
-gram@mvs1985m	@mvs1985m	15.571	15.794	Foreign=Yes
+gram@mvs1985m	@mvs1985m	15.571	15.794	_
 gram@mvs1985m	@mvs1985m	15.794	16.017	Case=Nom|Gender=Neut|Number=Sing
 gram@mvs1985m	@mvs1985m	16.017	16.24	Case=Nom|Number=Sing|Person=1
 gram@mvs1985m	@mvs1985m	16.24	16.463	_
@@ -4188,7 +4188,7 @@ gram@vad1961m	@vad1961m	24.976	25.252	Animacy=Inan|Case=Acc|Gender=Neut|Number=S
 gram@vad1961m	@vad1961m	25.252	25.528	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act
 gram@vad1961m	@vad1961m	25.528	25.804	_
 gram@vad1961m	@vad1961m	25.804	26.08	_
-gram@vad1961m	@vad1961m	26.08	26.356	Case=Nom|Gender=Male|Number=Sing
+gram@vad1961m	@vad1961m	26.08	26.356	Case=Nom|Gender=Masc|Number=Sing
 gram@vad1961m	@vad1961m	26.356	26.632	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 gram@vad1961m	@vad1961m	26.632	26.908	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
 gram@vad1961m	@vad1961m	26.908	27.184	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing
@@ -4209,7 +4209,7 @@ gram@vad1961m	@vad1961m	32.41	32.799	_
 gram@vad1961m	@vad1961m	32.799	33.188	Degree=Pos
 gram@vad1961m	@vad1961m	33.188	33.577	_
 gram@vad1961m	@vad1961m	33.577	33.966	Case=Acc
-gram@vad1961m	@vad1961m	33.966	34.355	Aspect=Imp|Mood=Ind|Number=Sg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
+gram@vad1961m	@vad1961m	33.966	34.355	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act
 gram@vad1961m	@vad1961m	34.355	34.744	_
 gram@vad1961m	@vad1961m	34.744	35.133	_
 gram@vad1961m	@vad1961m	35.133	35.522	_
@@ -4345,7 +4345,7 @@ gram@vad1961m	@vad1961m	77.9	78.121	_
 gram@vad1961m	@vad1961m	78.121	78.342	_
 gram@vad1961m	@vad1961m	78.342	78.563	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing
 gram@vad1961m	@vad1961m	78.563	78.784	_
-gram@vad1961m	@vad1961m	78.784	79.005	Degree=Pos
+gram@vad1961m	@vad1961m	78.784	79.005	_
 gram@vad1961m	@vad1961m	79.005	79.226	Degree=Pos
 gram@vad1961m	@vad1961m	79.226	79.447	Aspect=Imp|VerbForm=Inf|Voice=Act
 gram@vad1961m	@vad1961m	79.447	79.668	_
@@ -4825,7 +4825,7 @@ gram@vad1961m	@vad1961m	221.874	222.154	_
 gram@vad1961m	@vad1961m	222.154	222.434	Case=Loc|Gender=Masc|Number=Sing
 gram@vad1961m	@vad1961m	222.434	222.714	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing
 gram@vad1961m	@vad1961m	222.714	222.994	_
-gram@vad1961m	@vad1961m	222.994	223.274	Degree=Pos
+gram@vad1961m	@vad1961m	222.994	223.274	_
 gram@vad1961m	@vad1961m	223.274	223.554	Aspect=Imp|VerbForm=Inf|Voice=Act
 gram@vad1961m	@vad1961m	223.554	223.834	Case=Acc|Gender=Masc|Number=Sing|Person=3
 gram@vad1961m	@vad1961m	223.834	224.116	Degree=Pos
@@ -4843,7 +4843,7 @@ gram@vad1961m	@vad1961m	228.4	228.668	_
 gram@vad1961m	@vad1961m	228.668	228.936	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short
 gram@vad1961m	@vad1961m	228.936	229.204	_
 gram@vad1961m	@vad1961m	229.204	229.472	_
-gram@vad1961m	@vad1961m	229.472	229.74	Degree=Pos
+gram@vad1961m	@vad1961m	229.472	229.74	_
 gram@vad1961m	@vad1961m	229.74	230.008	Degree=Pos
 gram@vad1961m	@vad1961m	230.008	230.276	_
 gram@vad1961m	@vad1961m	230.276	230.544	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act
@@ -4878,9 +4878,9 @@ gram@vad1961m	@vad1961m	237.78	238.048	Degree=Pos
 gram@vad1961m	@vad1961m	238.048	238.316	_
 gram@vad1961m	@vad1961m	238.316	238.584	_
 gram@vad1961m	@vad1961m	238.584	238.852	_
-gram@vad1961m	@vad1961m	238.852	239.159	Degree=Pos
+gram@vad1961m	@vad1961m	238.852	239.159	_
 gram@vad1961m	@vad1961m	239.589	239.922	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
-gram@vad1961m	@vad1961m	239.922	240.255	Degree=Pos
+gram@vad1961m	@vad1961m	239.922	240.255	_
 gram@vad1961m	@vad1961m	240.255	240.588	_
 gram@vad1961m	@vad1961m	240.588	240.921	Aspect=Perf|VerbForm=Inf|Voice=Act
 gram@vad1961m	@vad1961m	240.921	241.254	_
@@ -5345,7 +5345,7 @@ gram@vad1961m	@vad1961m	394.203	394.503	Animacy=Inan|Case=Nom|Gender=Masc|Number
 gram@vad1961m	@vad1961m	394.503	394.803	_
 gram@vad1961m	@vad1961m	394.803	395.103	_
 gram@vad1961m	@vad1961m	395.103	395.403	Case=Nom|Number=Plur|Person=2
-gram@vad1961m	@vad1961m	395.403	395.703	_ 758
+gram@vad1961m	@vad1961m	395.403	395.703	_
 gram@vad1961m	@vad1961m	395.703	396.003	Degree=Pos
 gram@vad1961m	@vad1961m	396.003	396.303	_
 gram@vad1961m	@vad1961m	396.303	396.603	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act
